@@ -1,0 +1,1 @@
+Write-Output $env:OPENAI_API_KEY
