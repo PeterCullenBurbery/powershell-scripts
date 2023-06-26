@@ -7,7 +7,7 @@ Welcome to the "powershell-scripts" repository! This repository is dedicated to 
 The repository contains the following PowerShell scripts:
 
 - **EnableLongPaths.ps1**: This script enables long file paths in the Windows API.
-- **OpenAI_API_Key.ps1**: If you've stored your OpenAI API key as an environment variable, this script will print it.
+- **OpenAIAPIKey.ps1**: If you've stored your OpenAI API key as an environment variable, this script will print it.
 - **EnableClipboardHistory.ps1**: This script enables clipboard history on a Windows system.
 - **HelloWorld.ps1**: This script prints "Hello, World!" to the console.
 - **InstallGoogleChromeIfNotAlreadyInstalled.ps1**: This script installs Google Chrome if it's not already installed.
